@@ -1,5 +1,7 @@
 # CSFML_peer_to_peer
 
+_(Names SERVER and CLIENT does only refeer to wich one's IP will be used)_
+
 ## Getting started :
 
 Server side :
