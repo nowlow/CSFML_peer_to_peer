@@ -11,7 +11,7 @@ cd SERVER
 
 Server side open port:
 ```shell
-sudo iptables -I INPUT -p tcp --dport 1337 --syn -j ACCEPT
+sudo iptables -I INPUT -p tcp --dport [port] --syn -j ACCEPT
 ```
 
 Client side :
