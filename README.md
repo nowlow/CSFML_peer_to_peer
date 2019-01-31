@@ -1,5 +1,7 @@
 # CSFML_peer_to_peer
 
+## Getting started :
+
 Server side :
 ```shell
 make
@@ -18,3 +20,12 @@ make
 cd CLIENT
 ./client [server IP] [port]
 ```
+
+## Infos :
+
+By default, the program will send `mouse_t` struct infos and recive same type from other client to print it.
+You can change this directly into the code.
+
+## Dependencies :
+
+CSFML
